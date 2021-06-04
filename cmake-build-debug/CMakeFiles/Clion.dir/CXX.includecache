@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/university/data structure/Ass4/Clion/Contact.h
+iostream
+-
+LinkedList.h
+D:/university/data structure/Ass4/Clion/LinkedList.h
+
+D:/university/data structure/Ass4/Clion/ContactManager.h
+iostream
+-
+LinkedList.h
+D:/university/data structure/Ass4/Clion/LinkedList.h
+Contact.h
+D:/university/data structure/Ass4/Clion/Contact.h
+ContactManager.h
+D:/university/data structure/Ass4/Clion/ContactManager.h
+Treaps.h
+D:/university/data structure/Ass4/Clion/Treaps.h
+Error.h
+D:/university/data structure/Ass4/Clion/Error.h
+
+D:/university/data structure/Ass4/Clion/Error.h
+iostream
+-
+
+D:/university/data structure/Ass4/Clion/LinkedList.cpp
+iostream
+-
+LinkedList.h
+D:/university/data structure/Ass4/Clion/LinkedList.h
+
+D:/university/data structure/Ass4/Clion/LinkedList.h
+iostream
+-
+
+D:/university/data structure/Ass4/Clion/Treaps.cpp
+iostream
+-
+string.h
+-
+Treaps.h
+D:/university/data structure/Ass4/Clion/Treaps.h
+
+D:/university/data structure/Ass4/Clion/Treaps.h
+iostream
+-
+stdlib.h
+-
+
+D:/university/data structure/Ass4/Clion/main.cpp
+iostream
+-
+LinkedList.h
+D:/university/data structure/Ass4/Clion/LinkedList.h
+LinkedList.cpp
+D:/university/data structure/Ass4/Clion/LinkedList.cpp
+Contact.h
+D:/university/data structure/Ass4/Clion/Contact.h
+ContactManager.h
+D:/university/data structure/Ass4/Clion/ContactManager.h
+Treaps.h
+D:/university/data structure/Ass4/Clion/Treaps.h
+Treaps.cpp
+D:/university/data structure/Ass4/Clion/Treaps.cpp
+Error.h
+D:/university/data structure/Ass4/Clion/Error.h
+

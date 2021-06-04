@@ -1,0 +1,3 @@
+D:/university/data structure/Ass4/Clion/cmake-build-debug/CMakeFiles/Clion.dir
+D:/university/data structure/Ass4/Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/university/data structure/Ass4/Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
